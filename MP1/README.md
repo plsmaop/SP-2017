@@ -14,4 +14,4 @@
     ```
     ./loser log [number] [dir]
     ```
-    will log the last `number` commits of directory.
+    will show the last `number` commits of directory.
