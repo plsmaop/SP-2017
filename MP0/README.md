@@ -2,8 +2,8 @@
 * Detailed [SPEC](https://systemprogrammingatntu.github.io/MP0/)
 * Brief Introduction
   * This is a program to count the occurences of characters in CHARSET for each line of the given data, and print the number of occurences respectively.
+  * use `make` to compile the program
   * Usage:<br>
-      use `make` to compile the program, and
       ```
       ./char_count CHARSET [INPUT_FILE]
       ```
