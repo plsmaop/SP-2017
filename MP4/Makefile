@@ -4,7 +4,7 @@
 CC=g++
 
 # place options like -O2, -g here
-CFLAGS= -O2 -g -std=c++11
+CFLAGS= -O2 -std=c++11
 
 all: inf-bonbon-server
 
