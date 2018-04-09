@@ -1,6 +1,7 @@
 # Machine Problem 1 - Version Control with MD5
 * Detailed [SPEC](https://systemprogrammingatntu.github.io/MP1)
 * Brief Introduction
+  * This is a simple version control program.
   * use `make` to compile the program
   * Usage:
     ```
