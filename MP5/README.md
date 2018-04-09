@@ -28,5 +28,5 @@
      ```
      http://127.0.0.1:[port]
      ```
-     to use the GUI monitor.
+     to use the GUI monitor.<br>
      The monitor will reveal how many threads of the server program are running.
