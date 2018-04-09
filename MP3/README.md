@@ -4,7 +4,6 @@
   * This is a program to assign tasks to other programs to find the specific MD5 strings.
   * use `make` to compile the program under `./server` and `./client` respectively.
   * Usage: 
-    * Create directories `./cdir` and `./sdir`
     * Under `./server`, execute 
       ```
       ./boss [config file]
