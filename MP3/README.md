@@ -25,6 +25,6 @@
     * Server Command Line
       * The server should support commands from `stdin`, the `status`, and `dump`, and `quit`.
         * `status` will show the current highest-scored MD5 string
-        * `dump` will output the original string corresponding the highest-scored MD5 string to the `MINE PATH` in `[config file]`
+        * `dump` will output the original string corresponding to the highest-scored MD5 string to the `MINE PATH` in `[config file]`
         * `quit` will terminate the `boss`
     
